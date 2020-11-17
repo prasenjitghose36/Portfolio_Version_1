@@ -1,4 +1,4 @@
-![](images/PG_logo_version_1.png)                                 
+# Link to my new Portfolio -> version 2.0 -> https://bit.ly/prasenjitghose                                 
 First Version of my Portfolio and this version 1.2.0 as I made some changes.
 ![](images/web_1.png)
 ![](images/web_2.png)
